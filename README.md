@@ -16,7 +16,9 @@ This is a **responsive landing page** for students looking to study MBBS abroad.
 - **Backend (Optional):** PHP (for form validation)
 - **Deployment:** Netlify/Vercel
 
+## Live Demo "https://university-insights-steel.vercel.app/"
+
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/Shrejal123/University_Insights.git
